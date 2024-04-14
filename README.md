@@ -1,4 +1,4 @@
-# EMS-C-Project
+# EMS Project
 Employee Management System in C Fully Based in Terminal a Simple but most relevant project of mine. 
 
 
